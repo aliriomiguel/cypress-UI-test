@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "login",
+    "line": 1,
+    "id": "login",
+    "tags": [],
+    "uri": "Login.feature",
+    "elements": [
+      {
+        "id": "login;i-perform-the-login",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "I perform the login",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 4,
+            "name": "Perform login",
+            "result": {
+              "status": "passed",
+              "duration": 5633000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
