@@ -9,5 +9,5 @@ module.exports = defineConfig({
     supportFile: 'cypress/support/index.js'
   },
   video: true,
-  videosFolder: "videos"
+  videosFolder: "videos" 
 })
